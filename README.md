@@ -12,5 +12,4 @@ scale.
 
 f(n)=n, f(n)=log2(n)
 
-![image](https://github.com/BuildThingsWithPKR/DSA/assets/157862225/a22336be-5042-47fc-89a5-293e09ae7c1e)
-
+![image](https://github.com/BuildThingsWithPKR/DSA/assets/157862225/76ba7f71-8a24-497d-923d-8581f97fe02a)
