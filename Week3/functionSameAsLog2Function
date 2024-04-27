@@ -16,7 +16,7 @@ n = np.linspace(1, 30, num=300)
 plt.plot(n, n,label=r'$f(n)=n$')
 plt.plot(np.log2(n), np.log2(n),label=r'$f(n)=log2(n)$')
 
-plt.xlabel("n, log(n)") 
+plt.xlabel("n, log2(n)") 
 plt.ylabel("f(n)=n, f(n)=log2(n)")
 plt.title("Big-O Approximation Plots")
 
