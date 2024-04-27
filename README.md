@@ -14,5 +14,9 @@ f(n)=n, f(n)=log2(n)
 
 ![image](https://github.com/BuildThingsWithPKR/DSA/assets/157862225/76ba7f71-8a24-497d-923d-8581f97fe02a)
 
+Slope in logarithmic functions: Easy exponentials
+# f(n) = n^c
+# log2(f(n)) = c*log2(n)
+# y = mx
 
 ![image](https://github.com/BuildThingsWithPKR/DSA/assets/157862225/1e206aff-feb5-4f56-aa8b-8e1bc87ac34b)
